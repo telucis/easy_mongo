@@ -1,0 +1,29 @@
+{
+  "name": "easy_mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/telucis/easy_mongo.git"
+  },
+  "keywords": [
+    "Mongo",
+    "node",
+    "easy"
+  ],
+  "author": "telucis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/telucis/easy_mongo/issues"
+  },
+  "homepage": "https://github.com/telucis/easy_mongo#readme",
+  "dependencies": {
+    "mocha":"1.18.2",
+    "should":"3.3.0",
+    "mongodb":"1.3.19"
+  }
+}
